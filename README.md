@@ -42,6 +42,5 @@ I build practical, real-world web apps — most recently **[CivicFix](https://gi
 <a href="mailto:reechathapaliya7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br>
-username=reechathapaliya1221&show_icons=true&hide_title=true&count_private=true&theme=default" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=reechathapaliya1221&show_icons=true&hide_title=true&count_private=true&theme=default" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=reechathapaliya1221&theme=default" width="48%" />
