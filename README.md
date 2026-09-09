@@ -1,6 +1,6 @@
 <div align="center">
 
-# Reecha Thapaliya
+# <br><i>Sangita  Thapaliya</br></i>
 
 **Frontend-leaning Full-Stack Developer** building for the web
 
