@@ -33,13 +33,7 @@ I build practical, real-world web apps — most recently **[CivicFix](https://gi
 
 <br>
 
-## Featured project
 
-<a href="https://github.com/reechathapaliya1221/Civic-Fix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reechathapaliya1221&repo=Civic-Fix&theme=default" />
-</a>
-
-<br><br>
 
 ## Let's connect
 
