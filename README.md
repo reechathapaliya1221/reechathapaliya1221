@@ -39,7 +39,9 @@ I build practical, real-world web apps — most recently **[CivicFix](https://gi
 
 <p>
 <a href="https://www.linkedin.com/in/sangita-thapaliya-b432a8389/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:reechathapaliya7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=reechathapaliya7@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=reechathapaliya1221&show_icons=true&hide_title=true&count_private=true&theme=default" width="48%" />
