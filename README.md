@@ -2,7 +2,7 @@
 
 # <br><i>Sangita  Thapaliya</br></i>
 
-**Frontend-leaning Full-Stack Developer** building for the web
+**Frontend-leaning Full-Stack Developer** 
 
 📍 Kathmandu, Nepal &nbsp;•&nbsp; 🎓 Computer Engineering Student
 
