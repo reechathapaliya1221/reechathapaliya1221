@@ -22,12 +22,10 @@
 
 📍 Kathmandu, Nepal &nbsp;|&nbsp; 🎓 Computer Engineering Student
 
-
-🔭 Currently deepening my backend & auth fundamentals
-🌱 Learning how to structure full-stack apps that scale past a hackathon demo
-🤝 Open to collaborating on frontend or full-stack projects
-🎯 Looking for internship opportunities
-```
+- 🔭 Currently deepening my backend & auth fundamentals
+- 🌱 Learning how to structure full-stack apps that scale past a hackathon demo
+- 🤝 Open to collaborating on frontend or full-stack projects
+- 🎯 Looking for internship opportunities
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
