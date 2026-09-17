@@ -22,9 +22,7 @@
 
 📍 Kathmandu, Nepal &nbsp;|&nbsp; 🎓 Computer Engineering Student
 
-I build practical, real-world web apps — most recently **[CivicFix](https://github.com/reechathapaliya1221/Civic-Fix)**, a civic issue-reporting platform where citizens report local problems and admins track them through to resolution.
 
-```
 🔭 Currently deepening my backend & auth fundamentals
 🌱 Learning how to structure full-stack apps that scale past a hackathon demo
 🤝 Open to collaborating on frontend or full-stack projects
